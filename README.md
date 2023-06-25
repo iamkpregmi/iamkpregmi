@@ -1,9 +1,9 @@
 <h1 align="left">Hey there, I'm Krishna Prasad Regmi👋</h1>
 <h3 align="left">I'm a Software Developer and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.</h3>
 
-- 🔭 I’m currently working on **I’m currently working on Python Development and practicing Data Structures and Algorithms everyday.**
+- 🔭 I’m currently working on Python Development and practicing Data Structures and Algorithms everyday.
 
-- 🌱 I’m currently learning **I’m currently learning Django and Pandas.**
+- 🌱 I’m currently learning Django and Pandas.
 
 - 📫 How to reach me **mrkpregmi@gmail.com**
 
