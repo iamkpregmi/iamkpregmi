@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Python Development and practicing Data Structures and Algorithms everyday.
 
-- 🌱 I’m currently learning Full Stack Web Dev.
+- 🌱 I’m currently learning Full Stack Web Dev & DSA.
 
 - 📫 How to reach me **mrkpregmi@gmail.com**
 
