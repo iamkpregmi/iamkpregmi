@@ -1,5 +1,6 @@
 <h1 align="left">Hey there, I'm Krishna Prasad Regmi👋</h1>
-<h3 align="left">I'm a Software Developer and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning React JS.</h3>
+<h3 align="left">I'm a Software Developer and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning FastAPI & AngularJS
+.</h3>
 
 - 🔭 I’m currently working on Python Development and practicing Data Structures and Algorithms everyday.
 
